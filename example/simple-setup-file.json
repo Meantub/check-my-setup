@@ -1,0 +1,8 @@
+[
+    {
+        "name": "test",
+        "type": "File",
+        "source_location": "E:/Technology/Projects/Active/check-my-setup/example/a/testFile",
+        "target_location": "E:/Technology/Projects/Active/check-my-setup/example/b/testFile"
+    }
+]

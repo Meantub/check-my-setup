@@ -1,0 +1,8 @@
+[
+    {
+        "name": "test",
+        "type": "Directory",
+        "source_location": "./example/a/",
+        "target_location": "./example/b/"
+    }
+]
